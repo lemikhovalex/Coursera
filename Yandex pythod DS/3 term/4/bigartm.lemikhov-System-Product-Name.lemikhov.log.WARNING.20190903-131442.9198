@@ -1,0 +1,4 @@
+Log file created at: 2019/09/03 13:14:42
+Running on machine: lemikhov-System-Product-Name
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0903 13:14:42.253989  9198 c_interface.cc:59] DiskReadException :  File school.txt does not exist.

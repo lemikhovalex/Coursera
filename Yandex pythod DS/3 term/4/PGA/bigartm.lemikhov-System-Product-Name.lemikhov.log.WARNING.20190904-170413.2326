@@ -1,0 +1,60 @@
+Log file created at: 2019/09/04 17:04:13
+Running on machine: lemikhov-System-Product-Name
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0904 17:04:13.261677  4389 helpers.cc:221] File already exists: lectures_batches/aaaaaa.batch
+W0904 17:04:13.277915  4388 helpers.cc:221] File already exists: lectures_batches/aaaaab.batch
+W0904 17:04:13.287575  4387 helpers.cc:221] File already exists: lectures_batches/aaaaac.batch
+W0904 17:04:13.311980  4389 helpers.cc:221] File already exists: lectures_batches/aaaaae.batch
+W0904 17:04:13.317674  4390 helpers.cc:221] File already exists: lectures_batches/aaaaad.batch
+W0904 17:04:13.323665  4388 helpers.cc:221] File already exists: lectures_batches/aaaaaf.batch
+W0904 17:04:13.334349  4387 helpers.cc:221] File already exists: lectures_batches/aaaaag.batch
+W0904 17:04:13.355878  4389 helpers.cc:221] File already exists: lectures_batches/aaaaah.batch
+W0904 17:04:13.363102  4390 helpers.cc:221] File already exists: lectures_batches/aaaaai.batch
+W0904 17:04:13.400105  4388 helpers.cc:221] File already exists: lectures_batches/aaaaaj.batch
+W0904 17:04:13.508388  4387 helpers.cc:221] File already exists: lectures_batches/aaaaak.batch
+W0904 17:04:13.528153  4389 helpers.cc:221] File already exists: lectures_batches/aaaaal.batch
+W0904 17:04:13.545322  4390 helpers.cc:221] File already exists: lectures_batches/aaaaam.batch
+W0904 17:04:13.563364  4388 helpers.cc:221] File already exists: lectures_batches/aaaaan.batch
+W0904 17:04:13.579510  4388 helpers.cc:221] File already exists: lectures_batches/aaaaar.batch
+W0904 17:04:13.586606  4390 helpers.cc:221] File already exists: lectures_batches/aaaaaq.batch
+W0904 17:04:13.634977  4387 helpers.cc:221] File already exists: lectures_batches/aaaaao.batch
+W0904 17:04:13.646134  4389 helpers.cc:221] File already exists: lectures_batches/aaaaap.batch
+W0904 17:08:38.300802  2326 check_messages.h:1121] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
+W0904 17:58:54.813339 22072 helpers.cc:221] File already exists: lectures_batches/aaaaaa.batch
+W0904 17:58:54.824895 22071 helpers.cc:221] File already exists: lectures_batches/aaaaab.batch
+W0904 17:58:54.830806 22073 helpers.cc:221] File already exists: lectures_batches/aaaaac.batch
+W0904 17:58:54.837340 22074 helpers.cc:221] File already exists: lectures_batches/aaaaad.batch
+W0904 17:58:54.842653 22072 helpers.cc:221] File already exists: lectures_batches/aaaaae.batch
+W0904 17:58:54.855480 22071 helpers.cc:221] File already exists: lectures_batches/aaaaaf.batch
+W0904 17:58:54.873734 22073 helpers.cc:221] File already exists: lectures_batches/aaaaag.batch
+W0904 17:58:54.879262 22072 helpers.cc:221] File already exists: lectures_batches/aaaaai.batch
+W0904 17:58:54.886948 22074 helpers.cc:221] File already exists: lectures_batches/aaaaah.batch
+W0904 17:58:54.918386 22071 helpers.cc:221] File already exists: lectures_batches/aaaaaj.batch
+W0904 17:58:55.004827 22072 helpers.cc:221] File already exists: lectures_batches/aaaaal.batch
+W0904 17:58:55.030033 22073 helpers.cc:221] File already exists: lectures_batches/aaaaak.batch
+W0904 17:58:55.060685 22071 helpers.cc:221] File already exists: lectures_batches/aaaaan.batch
+W0904 17:58:55.097851 22074 helpers.cc:221] File already exists: lectures_batches/aaaaam.batch
+W0904 17:58:55.108875 22071 helpers.cc:221] File already exists: lectures_batches/aaaaaq.batch
+W0904 17:58:55.129499 22072 helpers.cc:221] File already exists: lectures_batches/aaaaao.batch
+W0904 17:58:55.132341 22071 helpers.cc:221] File already exists: lectures_batches/aaaaar.batch
+W0904 17:58:55.163429 22073 helpers.cc:221] File already exists: lectures_batches/aaaaap.batch
+W0904 18:01:25.781736  2326 check_messages.h:1121] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
+W0904 18:02:50.444973 22257 helpers.cc:221] File already exists: lectures_batches/aaaaaa.batch
+W0904 18:02:50.450970 22258 helpers.cc:221] File already exists: lectures_batches/aaaaab.batch
+W0904 18:02:50.463508 22260 helpers.cc:221] File already exists: lectures_batches/aaaaac.batch
+W0904 18:02:50.477200 22257 helpers.cc:221] File already exists: lectures_batches/aaaaae.batch
+W0904 18:02:50.483932 22258 helpers.cc:221] File already exists: lectures_batches/aaaaaf.batch
+W0904 18:02:50.509513 22260 helpers.cc:221] File already exists: lectures_batches/aaaaag.batch
+W0904 18:02:50.518426 22259 helpers.cc:221] File already exists: lectures_batches/aaaaad.batch
+W0904 18:02:50.530136 22257 helpers.cc:221] File already exists: lectures_batches/aaaaah.batch
+W0904 18:02:50.535720 22258 helpers.cc:221] File already exists: lectures_batches/aaaaai.batch
+W0904 18:02:50.587393 22260 helpers.cc:221] File already exists: lectures_batches/aaaaaj.batch
+W0904 18:02:50.696455 22260 helpers.cc:221] File already exists: lectures_batches/aaaaan.batch
+W0904 18:02:50.726323 22258 helpers.cc:221] File already exists: lectures_batches/aaaaam.batch
+W0904 18:02:50.744596 22259 helpers.cc:221] File already exists: lectures_batches/aaaaak.batch
+W0904 18:02:50.771299 22257 helpers.cc:221] File already exists: lectures_batches/aaaaal.batch
+W0904 18:02:50.778126 22259 helpers.cc:221] File already exists: lectures_batches/aaaaaq.batch
+W0904 18:02:50.792762 22260 helpers.cc:221] File already exists: lectures_batches/aaaaao.batch
+W0904 18:02:50.793754 22259 helpers.cc:221] File already exists: lectures_batches/aaaaar.batch
+W0904 18:02:50.817297 22258 helpers.cc:221] File already exists: lectures_batches/aaaaap.batch
+W0904 18:03:47.079051  2326 check_messages.h:1121] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
