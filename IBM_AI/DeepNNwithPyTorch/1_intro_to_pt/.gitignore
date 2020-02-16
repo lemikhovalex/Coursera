@@ -1,0 +1,5 @@
+data
+img
+*.csv*
+*.gz*
+._img
