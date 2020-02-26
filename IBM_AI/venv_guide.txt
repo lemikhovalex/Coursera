@@ -7,3 +7,4 @@ pip3 install pandas
 pip3 install matplotlib
 pip3 install pillow==6.2.1
 pip3 install torchvision==0.2.1
+pip3 install h5py==2.8.0
