@@ -1,3 +1,0 @@
-/home/lemikhovalex/Documents/Coursera/C++_Belt_Series/01_white/02_week_links_funcs_containers/04_UpdateIfGreater/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/lemikhovalex/Documents/Coursera/C++_Belt_Series/01_white/02_week_links_funcs_containers/04_UpdateIfGreater/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/lemikhovalex/Documents/Coursera/C++_Belt_Series/01_white/02_week_links_funcs_containers/04_UpdateIfGreater/cmake-build-debug/CMakeFiles/04_UpdateIfGreater.dir
