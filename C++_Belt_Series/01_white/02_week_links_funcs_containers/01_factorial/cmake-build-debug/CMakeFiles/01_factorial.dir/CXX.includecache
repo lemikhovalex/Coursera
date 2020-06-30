@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lemikhovalex/Documents/Coursera/C++_Belt_Series/01_white/02_week_links_funcs_containers/01_factorial/main.cpp
+iostream
+-
+

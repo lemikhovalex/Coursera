@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eba6dcf6-8a70-42d7-b5d0-0025ad3f4310" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/2Bin/.cproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/2Bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/2Bin/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/2Bin/.settings/language.settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/2Bin/.settings/org.eclipse.cdt.managedbuilder.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/2Bin/src/2Bin.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/A+B/.cproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/A+B/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/A+B/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/A+B/.settings/language.settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/A+B/.settings/org.eclipse.cdt.managedbuilder.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/A+B/src/A+B.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/C2/.cproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/C2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/C2/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/C2/.settings/language.settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/C2/.settings/org.eclipse.cdt.managedbuilder.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/C2/src/C2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/Conspect_01white_01week.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/Cost/.cproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/Cost/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/Cost/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/Cost/.settings/language.settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/Cost/.settings/org.eclipse.cdt.managedbuilder.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/Cost/src/Cost.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/Div/.cproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/Div/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/Div/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/Div/.settings/language.settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/Div/.settings/org.eclipse.cdt.managedbuilder.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/Div/src/Div.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/GCD/.cproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/GCD/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/GCD/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/GCD/.settings/language.settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/GCD/.settings/org.eclipse.cdt.managedbuilder.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/GCD/src/GCD.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/Hello/.cproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/Hello/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/Hello/.settings/language.settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/Hello/.settings/org.eclipse.cdt.managedbuilder.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/Hello/Debug/hello.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/Hello/Debug/hello.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/Hello/hello.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/MinStr/.cproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/MinStr/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/MinStr/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/MinStr/.settings/language.settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/MinStr/.settings/org.eclipse.cdt.managedbuilder.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/MinStr/src/MinString.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/QuadEq/.cproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/QuadEq/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/QuadEq/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/QuadEq/.settings/language.settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/QuadEq/.settings/org.eclipse.cdt.managedbuilder.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/QuadEq/src/QuadEq.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/SecondComing/.cproject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/SecondComing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/SecondComing/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/SecondComing/.settings/language.settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/SecondComing/.settings/org.eclipse.cdt.managedbuilder.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/SecondComing/src/SecondComing.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../C++ Belt Series/01_white/01_week_install_and_first_steps/install.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1dwOYDmTJwuZzFsVCvWYVaBuNiu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eba6dcf6-8a70-42d7-b5d0-0025ad3f4310" name="Default Changelist" comment="" />
+      <created>1593332733238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593332733238</updated>
+      <workItem from="1593332734406" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>

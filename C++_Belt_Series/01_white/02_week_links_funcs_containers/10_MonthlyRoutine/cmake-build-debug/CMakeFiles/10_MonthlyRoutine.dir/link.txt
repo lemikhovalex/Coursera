@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/10_MonthlyRoutine.dir/main.cpp.o  -o 10_MonthlyRoutine 
