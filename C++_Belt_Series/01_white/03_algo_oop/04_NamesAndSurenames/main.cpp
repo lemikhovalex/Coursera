@@ -8,24 +8,6 @@ using namespace std;
 
 class Person {
 public:
-    int get_closest_year_read(const map<int, string>& m, int year){
-        int out = 0;
-        if (m.size() == 0 || m.count(year) == 1){
-            return year;
-        }else{
-            int dist = -1;
-            for (auto item : m){
-                if (((year - item.first < dist) &&(year - item.first > 0) )  || dist < 0){
-                    if (year - item.first > 0){
-                        dist = year - item.first;
-                    }
-                }
-            }
-            out = year - dist;
-        }
-        return out;
-    }
-
     void ChangeFirstName(int year, const string& first_name) {
         first_names_changes[year] = first_name;
     }
@@ -37,7 +19,7 @@ public:
 
         int cyf = get_closest_year_read(first_names_changes, year);
         int cyl = get_closest_year_read(last_names_changes, year);
-        cout << "GetFullName:: cyl=" << cyl << ", cyf= " << cyf << endl;
+        //cout << "GetFullName:: cyl=" << cyl << ", cyf= " << cyf << endl;
         string first  = (first_names_changes.count(cyf) == 1) ? first_names_changes[cyf] : "";
         string last = (last_names_changes.count(cyl) == 1) ? last_names_changes[cyl] : "";
 
@@ -56,6 +38,18 @@ public:
 private:
     map<int, string> first_names_changes;
     map<int, string> last_names_changes;
+
+    int get_closest_year_read(const map<int, string>& m, int year){
+        int out = -1;
+        for(auto item : m){
+            if (item.first <= year) {
+                    out = item.first;
+                } else {
+                    break;
+                }
+        }
+        return out;
+    }
     // приватные поля
 };
 
