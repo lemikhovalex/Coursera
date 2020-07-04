@@ -1,28 +1,53 @@
 #include <iostream>
 #include "map"
 #include "string"
+#include "vector"
 
 using namespace std;
 
-int get_closest_year(map<int, Names> year_names, int year){
-    int out = 0;
-    if (year_names.size() == 0 || year_names.count(year) == 0){
-        return year;
-    }else{
-        int dist = -1;
-        for (auto item : year_names){
-            if (year - item.first < dist || dist == -1){
-                dist = year - item.first;
-            }
-        }
-        out = year - dist;
+class Weather {
+public:
+    Weather(const string& new_state, int new_temperature) {
+        state = new_state;
+        temperature = new_temperature;
+        cout << 'c';
     }
-    return out;
+    ~Weather() {
+        cout << 'd';
+    }
+private:
+    string state;
+    int temperature;
+};
+
+void f(int x) {
+    cout << 'a';
+    if (x % 2 == 0) {
+        Weather weather("rain", 5);
+        cout << 'b';
+        return;
+    }
+    Weather weather2("fog", 4);
+    cout << 'e';
+}
+
+Weather GetMayWeather(int day) {
+    if (day == 9) {
+        cout << 'b';
+        return {"clear", 10};
+    } else {
+        cout << 'b';
+        return {"cloudy", 10};
+    }
 }
 
 int main() {
-    map<int, string> m;
-    m[1997] = "lol";
-    cout << m.count(1996);
+    vector<int> days(2, 1);
+    for (int day : days) {
+        cout << 'a';
+        Weather weather = GetMayWeather(day);
+        cout << 'e';
+    }
+    cout << 'f';
     return 0;
 }
