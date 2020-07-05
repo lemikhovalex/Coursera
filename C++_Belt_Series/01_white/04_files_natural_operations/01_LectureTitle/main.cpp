@@ -1,39 +1,43 @@
 #include <iostream>
+#include <utility>
 
 using namespace std;
 
 struct Specialization{
     string spec;
-    explicit Specialization(string s){
+    explicit Specialization(const string& s){
         spec = s;
     }
 };
 
 struct Course{
     string course;
-    explicit Course(string s){
+    explicit Course(const string& s){
         course = s;
     }
 };
 
 struct Week{
     string week;
-    explicit Week(string s){
+    explicit Week(const string& s){
         week = s;
     }
 };
 
 struct LectureTitle {
-    explicit LectureTitle(Specialization spec, Course c, Week w){
+
+    string specialization;
+    string course;
+    string week;
+
+    explicit LectureTitle(const Specialization& spec, const Course& c, const Week& w){
         specialization = spec.spec;
         course = c.course;
         week = w.week;
     }
-    string specialization;
-    string course;
-    string week;
+
 };
-/*
+
 int main() {
     // ok
     LectureTitle title(
@@ -42,7 +46,7 @@ int main() {
             Week("4th")
     );
     // not ok
-
+    /*
     LectureTitle title("C++", "White belt", "4th");
 
     LectureTitle title(string("C++"), string("White belt"), string("4th"));
@@ -62,6 +66,6 @@ int main() {
             Week("4th"),
             Course("White belt")
     );
+     */
     return 0;
 }
-*/
