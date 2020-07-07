@@ -53,6 +53,13 @@ void ensure_next_symb(istream& em_cin){
     em_cin.ignore(1);
 }
 
+void got_piece_of_date(int& x, istream& em_cin){
+    if (em_cin >> x){
+    } else{
+        throw runtime_error("DayFormat issue");
+    }
+}
+
 istream& operator>>(istream& stream, Date& d){
     // 0001-01-01
     //y-m-d
@@ -62,12 +69,13 @@ istream& operator>>(istream& stream, Date& d){
 
     int day, month, year;
     try{
-        em_cin >> year;
+        got_piece_of_date(year, em_cin);
         ensure_next_symb(em_cin);
-        em_cin >> month;
 
+        got_piece_of_date(month, em_cin);
         ensure_next_symb(em_cin);
-        em_cin >> day;
+
+        got_piece_of_date(day, em_cin);
         if (em_cin.peek() != -1) {
             throw runtime_error("DayFormat issue");
         }
@@ -78,11 +86,6 @@ istream& operator>>(istream& stream, Date& d){
             throw runtime_error("Wrong date format: " + input + '\n');
         }
         else{
-            /*
-            cout << strcmp(re.what(), "DayFormat issue") << endl;
-            cout << re.what() << endl;
-            cout << "DayFormat issue" << endl;
-             */
             throw re;
         }
     }
