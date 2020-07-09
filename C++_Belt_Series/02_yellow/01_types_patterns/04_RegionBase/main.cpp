@@ -15,19 +15,18 @@ struct Region {
     int64_t population;
 };
 
-bool operator<(map<Lang, string>& lhs, map<Lang, string>& rhs){
-    Lang l;
-    if()
+bool operator<(const Region& lhs, const Region& rhs) {
+    return tie(lhs.std_name, lhs.parent_std_name, lhs.names, lhs.population) <
+           tie(rhs.std_name, rhs.parent_std_name, rhs.names, rhs.population);
 }
 
-bool operator<(Region& lhs, Region& rhs){
-    auto lhs_key = tie(lhs.std_name , lhs.parent_std_name , lhs.names, lhs.population); // сохраним левую дату
-    auto rhs_key = tie(rhs.std_name , rhs.parent_std_name , rhs.names, rhs.population); // и правую
-    return lhs_key < rhs_key;
-}
-
-int FindMaxRepetitionCount(const vector<Region>& regions){
-
+int FindMaxRepetitionCount(const vector<Region>& regions) {
+    int result = 0;
+    map<Region, int> repetition_count;
+    for (const Region& region : regions) {
+        result = max(result, ++repetition_count[region]);
+    }
+    return result;
 }
 
 int main() {
